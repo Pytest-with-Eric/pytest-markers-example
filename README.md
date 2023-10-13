@@ -6,7 +6,7 @@ This project is a simple example of what are Pytest markers and how to use them.
 
 # [Requirements](https://github.com/Pytest-with-Eric/pytest-fixture-scope-example/blob/main/README.md#requirements)
 
-* Python 3.11.4
+* Python 3.11.0
 
 Please install the dependencies via the `requirements.txt` file using
 
