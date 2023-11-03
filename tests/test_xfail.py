@@ -2,7 +2,7 @@ import pytest
 
 
 # A test that's expected to fail.
-@pytest.mark.xfail
+@pytest.mark.xfail(reason="Expected to fail until we fix the bug.")
 def test_example_xfail():
     assert 2 * 3 == 7
 
